@@ -12,8 +12,6 @@ Welcome to my full-featured inventory management system! This program is meticul
 
 ## Usage
 
-With its intuitive Vue.js-built interface, our inventory management system offers a user-friendly experience. Explore the corresponding front-end repository, [Front End Repository](https://github.com/G-Balamurugan/Inventory_Management_VeuJs), to enhance your overall inventory management experience.
+With its intuitive Vue.js-built interface, our inventory management system offers a user-friendly experience.
 
-## Getting Started
-
-Front-End repository : https://github.com/G-Balamurugan/Inventory_Management_VeuJs.git
+**Front-End repository:** https://github.com/G-Balamurugan/Inventory_Management_VeuJs
